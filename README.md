@@ -1,4 +1,4 @@
-# Cucumber-fly-report
+# Cucumber-live-report
 Real-time reporting of cucumber tests
 
 To start the services, one just need to type
