@@ -14,4 +14,13 @@ docker-compose down
 That’s it, it will handle both stopping the services and pruning away the containers.
 Hopes the above make it really simple to understand what Docker-Compose is. Cheers.
 
-Open URL: http://localhost:5601
+## Steps to view Cucumber Report:
+- Open URL: http://localhost:5601
+- Navigate to Stack Management under Management
+- Click on Saved Objects under Kibana
+- Click on import button
+- Select  [export.ndjson](https://github.com/RameshBabuPrudhvi/cucumber-live-report/blob/main/export.ndjson)
+- Click on Side menu and Expand Analytics
+- Click on Dashboard
+- Click on Cucumber Report
+
